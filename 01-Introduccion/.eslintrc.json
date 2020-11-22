@@ -1,0 +1,9 @@
+// Es una  herramienta que indicamos las reglas de como deberia estar escrito nuestros archivos js y nos ayuda a solucionar errores de sintaxis
+{
+    "parserOptions":{   
+        "ecmaVersion": 6 //Indicacmos la version de ecmascript
+    },
+    "rules": {
+        "semi":["error", "always"]
+    }
+}
