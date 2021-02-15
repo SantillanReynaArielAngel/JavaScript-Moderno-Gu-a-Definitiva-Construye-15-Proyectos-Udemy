@@ -8,6 +8,7 @@ const numero4=20;
 console.log(numero1);
 //parseInt(): convierte un string a un entero
 console.log(Number.parseInt(numero1));
+//parseFloat(): convierte un string a un flotante
 console.log(Number.parseFloat(numero2));
 
 
